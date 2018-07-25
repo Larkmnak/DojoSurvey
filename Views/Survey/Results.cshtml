@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Results</title>
+    </head>
+    <body>
+        <h1>Results</h1>
+        <hr>
+        @{
+        	foreach(var result in ViewBag.ViewResults)
+        	{
+        		<p>@result.Key : @result.Value</p>
+        	}
+    	}
+    </body>
+</html>

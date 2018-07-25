@@ -1,0 +1,18 @@
+C:\Users\Chris\Documents\__C#\ASP.NET core\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.deps.json
+C:\Users\Chris\Documents\__C#\ASP.NET core\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.runtimeconfig.json
+C:\Users\Chris\Documents\__C#\ASP.NET core\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.runtimeconfig.dev.json
+C:\Users\Chris\Documents\__C#\ASP.NET core\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.dll
+C:\Users\Chris\Documents\__C#\ASP.NET core\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.pdb
+C:\Users\Chris\Documents\__C#\ASP.NET core\DojoSurvey\obj\Debug\netcoreapp1.1\DojoSurvey.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\__C#\ASP.NET core\DojoSurvey\obj\Debug\netcoreapp1.1\DojoSurvey.AssemblyInfo.cs
+C:\Users\Chris\Documents\__C#\ASP.NET core\DojoSurvey\obj\Debug\netcoreapp1.1\DojoSurvey.dll
+C:\Users\Chris\Documents\__C#\ASP.NET core\DojoSurvey\obj\Debug\netcoreapp1.1\DojoSurvey.pdb
+C:\Users\Chris\Documents\__C#\ASP.NET Core I\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.deps.json
+C:\Users\Chris\Documents\__C#\ASP.NET Core I\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.runtimeconfig.json
+C:\Users\Chris\Documents\__C#\ASP.NET Core I\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.runtimeconfig.dev.json
+C:\Users\Chris\Documents\__C#\ASP.NET Core I\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.dll
+C:\Users\Chris\Documents\__C#\ASP.NET Core I\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.pdb
+C:\Users\Chris\Documents\__C#\ASP.NET Core I\DojoSurvey\obj\Debug\netcoreapp1.1\DojoSurvey.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\__C#\ASP.NET Core I\DojoSurvey\obj\Debug\netcoreapp1.1\DojoSurvey.AssemblyInfo.cs
+C:\Users\Chris\Documents\__C#\ASP.NET Core I\DojoSurvey\obj\Debug\netcoreapp1.1\DojoSurvey.dll
+C:\Users\Chris\Documents\__C#\ASP.NET Core I\DojoSurvey\obj\Debug\netcoreapp1.1\DojoSurvey.pdb
